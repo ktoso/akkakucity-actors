@@ -1,4 +1,4 @@
-# Makkacity Actors
+# mAkkacity Actors
 
 A collection of useful Akka Actors.
 
